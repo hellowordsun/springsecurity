@@ -21,7 +21,7 @@
         <druid.version>1.1.10</druid.version>
         <spring-social-config.version>1.1.4.RELEASE</spring-social-config.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <mybatis-typehandlers-jsr310.version>1.0.2</mybatis-typehandlers-jsr310.version>
         <commons-fileupload.version>1.2.2</commons-fileupload.version>
